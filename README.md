@@ -1,4 +1,4 @@
-### Hi there, I'm Roy Devpreyo - aka [DevedRoy] 👋 
+### Hi there, I'm Roy Devpreyo - aka DevedRoy 👋 
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevedRoy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=DevedRoy)
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Full Stack Development
 - 🤔 I’m looking for help with Cyber Security
 - 💬 Ask me about Python, Android Development, WAPT, VAPT, Malware Analysis and Network Security.
-- 📫 How to reach me: [twitter] 
+- 📫 How to reach me: [Twitter][twitter] 
 - 😄 Pronouns: Roy, Dev, Lucifer, devedroy and Dev Astra
 -->
 
