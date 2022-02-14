@@ -6,7 +6,7 @@
 ## I'm a Son, Security Reasearcher, Developer, and Teacher!!
 
 - 🔭 I’m currently working on Penetration testing and Malware Analysis
-- 👯 I’m looking to collaborate on Full Stack Development
+- 👯 I’m looking to collaborate on Android Development Data Engineering and Bug Hunting
 - 🤔 I’m looking for help with Cyber Security
 - 💬 Ask me about Python, Android Development, WAPT, VAPT, Malware Analysis and Network Security.
 - 📫 How to reach me: [Twitter][twitter] 
