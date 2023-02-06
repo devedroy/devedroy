@@ -8,7 +8,7 @@ Experienced in Android Development and Development in Python.
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [roydevpreyo@gmail.com](mailto:roydevpreyo@gmail.com)
-* 🧠  I'm learning Kotlin and Native Android Development
+* 🧠  I'm learning Kotlin, Java and Native Android Development
 * 🤝  I'm open to collaborating on Open Source Projects.
 
 <a href="https://www.twitter.com/DevedRoy" target="_blank" rel="noreferrer"><img
