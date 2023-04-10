@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on improving my skills<br>🧑‍🤝‍🧑 I'm looking to collaborate on Android Development projects<br>🤝 I'm looking for help me find Open-Source projects to collaborate on<br>🌱 I'm currently learning Modern Android Development and Flask<br>💬 Ask me about Android development and Data structures and Algorithms<br>⚡ Fun fact I love teaching and learning
+🔭 I'm currently working on improving my skills in MAD and Flask<br>🧑‍🤝‍🧑 I'm looking to collaborate on Android Development projects<br>🤝 I'm looking for help me find Open-Source projects to collaborate on<br>🌱 I'm currently learning Modern Android Development and Flask<br>💬 Ask me about Android development and Data structures and Algorithms<br>⚡ Fun fact I love teaching and learning
 
 
 ## 🌐 Socials:
