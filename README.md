@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I'm currently working on improving my skills in MAD and Flask<br>🧑‍🤝‍🧑 I'm looking to collaborate on Android Development projects<br>🤝 I'm looking for help me find Open-Source projects to collaborate on<br>🌱 I'm currently learning Modern Android and Backend Development<br>💬 Ask me about Android development and Data structures and Algorithms<br>⚡ Fun fact I love teaching and learning
+🔭 I'm currently working on improving my skills in Kotlin Multiplatform<br>🧑‍🤝‍🧑 I'm looking to collaborate on Android,KMP and Ktor projects<br>🤝 I'm looking for help me find Open-Source projects to collaborate on<br>🌱 I'm currently learning Modern Android and Backend Development<br>💬 Ask me about Android, KMP and Ktor<br>⚡ Fun fact I love teaching and learning
 
 
 ### 🔝 Top Contributed Repo
